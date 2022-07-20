@@ -30,8 +30,11 @@
 <a href = "mailto:fevitorio4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+##
+
 <div>
 <a href="https://github.com/FeVitorio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelica-shigematsu&layout=compact&langs_count=7&theme=dracula"/>
- </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevitorio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fevitorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
