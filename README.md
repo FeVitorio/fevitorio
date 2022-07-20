@@ -1,7 +1,7 @@
 ### Oi, sou a Fernanda Vitório 👋
 
-- Estudando HTML 5, CSS 3 e JavaScript.
-- Desenvolvendo com Visual Studio Code
+- 📚 Estudando HTML 5, CSS 3 e JavaScript.
+- 💻 Desenvolvendo com Visual Studio Code
 
 <br>
 
