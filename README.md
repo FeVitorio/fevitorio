@@ -28,7 +28,10 @@
 
 <div>
 <a href = "mailto:fevitorio4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.com/channels/Fernanda Vitorio#6855"_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+<a href="https://discord.com/channels/Fernanda Vitorio#6855"_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 
+ ![Snake animation](https://github.com/FeVitorio/FeVitorio/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
@@ -42,8 +45,5 @@
 
 </div>
 
-<div>
-  ![Snake animation](https://github.com/FeVitorio/FeVitorio/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 
