@@ -40,8 +40,10 @@
   <img width="48%" height="180em"  src="https://github-readme-stats.vercel.app/api?username=fevitorio&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevitorio&layout=compact&langs_count=7&theme=jolly"/>
 
-![Snake animation](https://github.com/FeVitorio/FeVitorio/blob/output/github-contribution-grid-snake.svg)
+</div>
 
+<div>
+  ![Snake animation](https://github.com/FeVitorio/FeVitorio/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
