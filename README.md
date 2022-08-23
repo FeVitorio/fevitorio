@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Graduada em Administração de Empresas
 - 🏡 Especialização em Gerenciamento na Construção Civil
-- 📚 Estudando HTML 5, CSS 3 e JavaScript
+- 📚 Estudando HTML 5, CSS 3, JavaScript e Python
 - 💻 Desenvolvendo com Visual Studio Code
 
 <br>
