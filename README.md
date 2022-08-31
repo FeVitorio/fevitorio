@@ -1,4 +1,4 @@
-### Oi, sou a Fernanda Vitório 👋
+### Oi, sou a Fernanda Vitório 
 
 - 👩‍🎓 Graduada em Administração de Empresas - UFSC
 - 🏡 Especialização em Gerenciamento na Construção Civil - UNISUL
