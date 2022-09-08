@@ -1,7 +1,7 @@
 ### Oi, sou a Fernanda Vitório 
 
 - 👩‍🎓 Graduada em Administração de Empresas - UFSC
-- 🏡 Especialização em Gerenciamento na Construção Civil - UNISUL
+- 🏡 Especialização em Gestão na Construção Civil - UNISUL
 - 📚 Estudando HTML 5, CSS 3, JavaScript e Python
 - 💻 Desenvolvendo com Visual Studio Code
 
